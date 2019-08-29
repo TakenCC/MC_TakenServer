@@ -1,0 +1,8 @@
+
+world_the_end
+world_nether
+world
+logs/*
+crash-reports/*
+plugins/*
+!plugins/*.jar
